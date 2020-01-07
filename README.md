@@ -6,6 +6,9 @@
 Copy <i>DragDropView.swift, NSDraggingInfo+FilePathURL.swift</i> to your project.
 </pre>
 
+## Preview
+<img src="/demo.png" width="400" height="400">
+
 ## Using
 ```swift
 dragDropView.acceptedFileExtensions = ["jpeg"]
